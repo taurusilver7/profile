@@ -1,2 +1,2 @@
 # profile
-A simple portfolio to display my works
+> A simple, static portfolio to display my works
