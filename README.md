@@ -4,5 +4,5 @@
 > Profile includes technical expertise, Previous Works & contact info.
 
 <p align="center">
-  <img src="./src/contact/contact.png" width="350" title="hover text">
+  <img src="./src/contact/contact.jpg" width="350" title="hover text">
 </p>
